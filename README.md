@@ -21,5 +21,8 @@ TFT LCD　ディスプレイ (タッチパネル)
 SD Card Reder  
 ±90 サーボモーター
 
+## 配線
+![wiring](https://github.com/CubeZeero/Arduino-Vending-Machine/blob/main/wiring_mini.png)
+
 ### Licence
 MIT Licence
